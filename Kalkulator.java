@@ -29,7 +29,6 @@ public class Kalkulator {
                 System.out.println("Operasi tidak valid");
                 return;
         }
-
         System.out.print("Hasil: " + hasil);
     }
 }
